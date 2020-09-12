@@ -69,6 +69,12 @@ body
     letter-spacing: 2px;
     
 }
+#about p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:18px;
+    text-align: justify;
+}
 #about .btn
 {
     border:2px solid transparent;
